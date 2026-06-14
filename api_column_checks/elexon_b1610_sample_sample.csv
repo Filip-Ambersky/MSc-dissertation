@@ -1,0 +1,6 @@
+dataset,psrType,bmUnit,nationalGridBmUnitId,settlementDate,settlementPeriod,halfHourEndTime,quantity
+B1610,Generation,2__AALAB000,,2023-01-01,1,2023-01-01T00:30:00,0.0
+B1610,Generation,2__AALAS000,,2023-01-01,1,2023-01-01T00:30:00,0.0
+B1610,Generation,2__AALTI000,,2023-01-01,1,2023-01-01T00:30:00,0.0
+B1610,Generation,2__AANGE000,,2023-01-01,1,2023-01-01T00:30:00,1.708
+B1610,Generation,2__AANGE001,AG-ALIM02,2023-01-01,1,2023-01-01T00:30:00,0.0

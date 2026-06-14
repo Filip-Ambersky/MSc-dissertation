@@ -1,0 +1,6 @@
+nationalGridBmUnit,elexonBmUnit,eic,fuelType,leadPartyName,bmUnitType,fpnFlag,bmUnitName,leadPartyId,demandCapacity,generationCapacity,productionOrConsumptionFlag,transmissionLossFactor,workingDayCreditAssessmentImportCapability,nonWorkingDayCreditAssessmentImportCapability,workingDayCreditAssessmentExportCapability,nonWorkingDayCreditAssessmentExportCapability,creditQualifyingStatus,demandInProductionFlag,gspGroupId,gspGroupName,interconnectorId
+ABERU-1,E_ABERDARE,,,UK Power Reserve Limited,E,True,Aberdare Power Station,UKPR,0.000,15.400,C,0.0167661,0.000,0.000,6.160,6.160,True,False,_K,South Wales,
+ABRBO-1,T_ABRBO-1,48W00000ABRBO-19,WIND,Aberdeen Offshore Wind Farm,T,True,ABRBO-1,ABERDEEN,-2.000,99.000,P,-0.0200357,-0.800,-0.800,39.600,39.600,True,False,,,
+ABRTW-1,E_ABRTW-1,48W00000ABRTW-1Z,WIND,Npower Commercial Gas Limited,E,True,Auchrobert Wind Farm,NPOWER02,-10.000,36.000,C,-0.0066390,-4.000,-4.000,14.400,14.400,True,False,_N,South Scotland,
+ACHLW-1,C__PSMAR001,,WIND,Smartestenergy Limited,S,True,C__PSMAR001-AAA-ACH-183,SMARTEST,0.000,11.282,C,-0.0200357,0.000,0.000,2.665,2.665,False,False,_P,North Scotland,
+ACHRW-1,T_ACHRW-1,48W00000ACHRW-1O,WIND,Mobius Renewables Gen. (GB2,T,True,AChruach Wind Farm,AIRGEN2,-2.000,42.600,P,-0.0200357,-0.800,-0.800,17.040,17.040,True,False,,,
