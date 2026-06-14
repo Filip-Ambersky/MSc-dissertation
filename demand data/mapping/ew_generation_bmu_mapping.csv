@@ -1,0 +1,448 @@
+national_grid_bmu,elexon_bmu,fuel_type,lead_party_name,bm_unit_name,bm_unit_type,gsp_group_id,gsp_group_name,interconnector_id,production_or_consumption_flag,generation_capacity_mw,demand_capacity_mw,region,is_interconnector,is_generation_like,include_in_ew_generation
+ABERU-1,E_ABERDARE,,UK Power Reserve Limited,Aberdare Power Station,E,_K,South Wales,,C,15.4,0.0,England_Wales,False,True,True
+AG-AFLX01,2__AFLEX001,,Flexitricity Limited,2__AFLEX001,S,_A,Eastern GSP Group,,C,49.0,0.0,England_Wales,False,True,True
+AG-AFLX02,2__AFLEX002,,Flexitricity Limited,2__AFLEX002,S,_A,Eastern GSP Group,,C,49.0,0.0,England_Wales,False,True,True
+AG-AFLX03,2__AFLEX003,,Flexitricity Limited,2__AFLEX003,S,_A,Eastern,,C,49.0,0.0,England_Wales,False,True,True
+AG-AFLX04,2__AFLEX004,,Flexitricity Limited,2__AFLEX004,S,_A,Eastern,,C,49.0,0.0,England_Wales,False,True,True
+AG-AFLX05,2__AFLEX005,,Flexitricity Limited,2__AFLEX005,S,_A,Eastern,,C,49.0,0.0,England_Wales,False,True,True
+AG-AHAR01,2__APOWQ001,,Hartree Partners Supply UK,2__APOWQ001,S,_A,Eastern,,C,7.5,-4.2,England_Wales,False,True,True
+AG-ALIM01,2__ALIME000,,Limejump Energy Limited,2__ALIME000,G,_A,Eastern GSP Group,,C,40.0,0.0,England_Wales,False,True,True
+AG-ALIM02,2__AANGE001,,Limejump Energy Limited,2__AANGE001,S,_A,Eastern,,C,80.0,-1.0,England_Wales,False,True,True
+AG-ALIM03,2__AANGE002,,Limejump Energy Limited,2__AANGE002,S,_A,Eastern GSP Group,,C,50.0,0.0,England_Wales,False,True,True
+AG-AOCT01,2__AMRCY001,,Octopus Energy Limited,2__AMRCY001,S,_A,Eastern,,C,15.96,-7.98,England_Wales,False,True,True
+AG-ASTK01,2__ASTAT001,,Statkraft Markets Gmbh,STAT_A2,S,_A,Eastern,,C,20.0,0.0,England_Wales,False,True,True
+AG-ASTK02,2__ASTAT002,,Statkraft Markets Gmbh,STAT_A3,S,_A,Eastern,,C,20.0,0.0,England_Wales,False,True,True
+AG-ASTK03,2__ASTAT003,OTHER,Statkraft Markets Gmbh,STAT_A4,S,_A,Eastern,,C,42.0,-4.0,England_Wales,False,True,True
+AG-ASTK04,2__ASTAT004,,Statkraft Markets Gmbh,STAT_A5,S,_A,Eastern,,C,5.0,-5.0,England_Wales,False,True,True
+AG-ASTK05,2__ASTAT005,,Statkraft Markets Gmbh,STAT_A6,S,_A,Eastern,,C,50.0,-52.0,England_Wales,False,True,True
+AG-ASTK06,2__ASTAT006,,Statkraft Markets Gmbh,STAT_A7,S,_A,Eastern,,C,20.0,-2.0,England_Wales,False,True,True
+AG-ASTK07,2__ASTAT007,,Statkraft Markets Gmbh,STAT_A8,S,_A,Eastern,,C,20.0,-2.0,England_Wales,False,True,True
+AG-ASTK08,2__ASTAT008,,Statkraft Markets Gmbh,STAT_A9,S,_A,Eastern,,C,16.0,-16.0,England_Wales,False,True,True
+AG-ASTK09,2__ASTAT009,,Statkraft Markets Gmbh,STAT_A10,S,_A,Eastern,,C,12.0,-12.0,England_Wales,False,True,True
+AG-ASTK99,2__ASTAT099,,Statkraft Markets Gmbh,STAT_A99,S,_A,Eastern,,C,8.0,-6.0,England_Wales,False,True,True
+AG-AUKP01,2__AUKPR001,,UK Power Reserve Limited,UKPR East,S,_A,Eastern,,C,20.0,-1.0,England_Wales,False,True,True
+AG-AUKP02,2__AUKPR002,,UK Power Reserve Limited,2__AUKPR002,S,_A,Eastern,,C,20.0,-1.0,England_Wales,False,True,True
+AG-AUKP03,2__AUKPR003,,UK Power Reserve Limited,2__AUKPR003,S,_A,Eastern,,C,20.0,-1.0,England_Wales,False,True,True
+AG-BEDF03,2__BLOND003,WIND,EDF Energy Customers Limited,EDFE Aggregate E Mids 03,S,_B,East Midlands,,C,20.0,-2.0,England_Wales,False,True,True
+AG-BEDG01,2__BEDGE001,,Edgware Energy Limited,2__BEDGE001,S,_B,East Midlands,,C,54.785,0.0,England_Wales,False,True,True
+AG-BFLX01,2__BFLEX001,,Flexitricity Limited,2__BFLEX001,S,_B,East Midlands,,C,49.0,0.0,England_Wales,False,True,True
+AG-BFLX02,2__BFLEX002,,Flexitricity Limited,2__BFLEX002,S,_B,East Midlands,,C,49.0,0.0,England_Wales,False,True,True
+AG-BFLX03,2__BFLEX003,,Flexitricity Limited,2__BFLEX003,S,_B,East Midlands,,C,49.0,0.0,England_Wales,False,True,True
+AG-BFLX04,2__BFLEX004,,Flexitricity Limited,2__BFLEX004,S,_B,East Midlands,,C,49.0,0.0,England_Wales,False,True,True
+AG-BHAR01,2__BPOWQ001,,Hartree Partners Supply UK,2__BPOWQ001,S,_B,East Midlands,,C,8.0,0.0,England_Wales,False,True,True
+AG-BLIM01,2__BLIME000,,Limejump Energy Limited,2__BLIME000,G,_B,East Midlands,,C,50.0,0.0,England_Wales,False,True,True
+AG-BLIM02,2__BANGE001,,Limejump Energy Limited,2__BANGE001,S,_B,East Midlands,,C,50.0,-18.0,England_Wales,False,True,True
+AG-BLIM03,2__BANGE002,,Limejump Energy Limited,2__BANGE002,S,_B,East Midlands,,C,50.0,0.0,England_Wales,False,True,True
+AG-BLIM04,2__BANGE003,,Limejump Energy Limited,2__BANGE003,S,_B,East Midlands,,C,2.08,-5.34,England_Wales,False,True,True
+AG-BSMA01,2__BSMAR002,,Smartestenergy Limited,2__BSMAR002,S,_B,East Midlands,,C,50.0,-50.0,England_Wales,False,True,True
+AG-BSMA02,2__BSMAR003,,Smartestenergy Limited,2__BSMAR003,S,_B,East Midlands,,C,50.0,-50.0,England_Wales,False,True,True
+AG-BSTK01,2__BSTAT001,,Statkraft Markets Gmbh,STAT_B2,S,_B,East Midlands,,C,4.0,0.0,England_Wales,False,True,True
+AG-BSTK02,2__BSTAT002,,Statkraft Markets Gmbh,STAT_B3,S,_B,East Midlands,,C,6.431,0.0,England_Wales,False,True,True
+AG-BSTK03,2__BSTAT003,,Statkraft Markets Gmbh,STAT_B4,S,_B,East Midlands,,C,16.0,0.0,England_Wales,False,True,True
+AG-BSTK04,2__BSTAT004,,Statkraft Markets Gmbh,STAT_B5,S,_B,East Midlands,,C,10.0,-2.0,England_Wales,False,True,True
+AG-BSTK99,2__BSTAT099,,Statkraft Markets Gmbh,STAT_B99,S,_B,East Midlands,,C,8.0,-8.0,England_Wales,False,True,True
+AG-BUKP01,2__BUKPR001,,UK Power Reserve Limited,UKPR East Mids,S,_B,East Midlands,,C,10.359,-10.0,England_Wales,False,True,True
+AG-BUKP02,2__BUKPR002,,UK Power Reserve Limited,2__BUKPR002,S,_B,East Midlands,,C,20.0,-1.0,England_Wales,False,True,True
+AG-BUKP03,2__BUKPR003,,UK Power Reserve Limited,2__BUKPR003,S,_B,East Midlands,,C,20.0,-1.0,England_Wales,False,True,True
+AG-COCT00,2__CMRCY001,,Octopus Energy Limited,2__CMRCY001,S,_C,London,,C,2.3,-4.4,England_Wales,False,True,True
+AG-DEDF01,2__DLOND001,,EDF Energy Customers Limited,EDFE Aggregate MANWEB01,S,_D,Merseyside North Wales,,C,24.0,-2.0,England_Wales,False,True,True
+AG-DEDF02,2__DLOND002,,EDF Energy Customers Limited,EDFE Aggregate MANWEB02,S,_D,Merseyside North Wales,,C,24.0,-2.0,England_Wales,False,True,True
+AG-DLIM01,2__DANGE001,,Limejump Energy Limited,2__DANGE001,S,_D,Merseyside North Wales,,C,50.0,0.0,England_Wales,False,True,True
+AG-DSMA01,2__DSMAE001,,Smartestenergy Limited,2__DSMAE001,S,_D,Merseyside North Wales,,C,35.786,0.0,England_Wales,False,True,True
+AG-DSMA02,2__DSMAE002,,Smartestenergy Limited,2__DSMAE002,S,_D,Merseyside North Wales,,C,50.0,-50.0,England_Wales,False,True,True
+AG-DSTK01,2__DSTAT001,,Statkraft Markets Gmbh,STAT_D2,S,_D,Merseyside North Wales,,C,20.0,-2.0,England_Wales,False,True,True
+AG-DSTK02,2__DSTAT002,,Statkraft Markets Gmbh,STAT_D3,S,_D,Merseyside North Wales,,C,14.0,-2.0,England_Wales,False,True,True
+AG-DSTK03,2__DSTAT003,,Statkraft Markets Gmbh,STAT_D4,S,_D,Merseyside North Wales,,C,20.0,0.0,England_Wales,False,True,True
+AG-DSTK04,2__DSTAT004,,Statkraft Markets Gmbh,STAT_D5,S,_D,Merseyside North Wales,,C,16.0,0.0,England_Wales,False,True,True
+AG-DSTK05,2__DSTAT005,,Statkraft Markets Gmbh,STAT_D6,S,_D,Merseyside North Wales,,C,16.0,0.0,England_Wales,False,True,True
+AG-DSTK06,2__DSTAT006,,Statkraft Markets Gmbh,STAT_D7,S,_D,Merseyside North Wales,,C,14.0,0.0,England_Wales,False,True,True
+AG-DSTK07,2__DSTAT007,,Statkraft Markets Gmbh,STAT_D8,S,_D,Merseyside North Wales,,C,30.0,-2.0,England_Wales,False,True,True
+AG-DSTK99,2__DSTAT099,,Statkraft Markets Gmbh,STAT_D99,S,_D,Merseyside North Wales,,C,4.0,-2.0,England_Wales,False,True,True
+AG-DUKP01,2__DUKPR001,,UK Power Reserve Limited,UKPR MANW,S,_D,Merseyside North Wales,,C,20.0,-20.0,England_Wales,False,True,True
+AG-DUKP02,2__DUKPR002,,UK Power Reserve Limited,2__DUKPR002,S,_D,Merseyside North Wales,,C,20.0,-1.0,England_Wales,False,True,True
+AG-DUKP08,2__DUKPR008,,UK Power Reserve Limited,2__DUKPR008,S,_D,Merseyside North Wales,,C,20.0,-21.0,England_Wales,False,True,True
+AG-EDF01C,V__AFEEL002,,EDF Energy Limited,V__AFEEL002,V,_A,Eastern,,P,50.0,-20.707,England_Wales,False,True,True
+AG-EEDF02,2__ELOND002,,EDF Energy Customers Limited,EDF Aggregate Midlands 2,S,_E,Midlands,,C,6.0,0.0,England_Wales,False,True,True
+AG-EFLX01,2__EFLEX001,,Flexitricity Limited,2__EFLEX001,S,_E,Midlands,,C,49.0,0.0,England_Wales,False,True,True
+AG-EFLX02,2__EFLEX002,,Flexitricity Limited,2__EFLEX002,S,_E,Midlands,,C,49.0,0.0,England_Wales,False,True,True
+AG-EFLX03,2__EFLEX003,,Flexitricity Limited,2__EFLEX003,S,_E,Midlands,,C,49.0,0.0,England_Wales,False,True,True
+AG-EFLX04,2__EFLEX004,,Flexitricity Limited,2__EFLEX004,S,_E,Midlands,,C,49.0,0.0,England_Wales,False,True,True
+AG-ELIM01,2__ELIME000,,Limejump Energy Limited,2__ELIME000,G,_E,Midlands,,C,26.0,0.0,England_Wales,False,True,True
+AG-ELIM02,2__EANGE001,,Limejump Energy Limited,2__EANGE001,S,_E,Midlands,,C,50.0,-19.86,England_Wales,False,True,True
+AG-ELIM03,2__EANGE002,,Limejump Energy Limited,2__EANGE002,S,_E,Midlands,,C,50.0,-17.9,England_Wales,False,True,True
+AG-ESMA01,2__ESMAR001,,Smartestenergy Limited,2__ESMAR001,S,_E,Midlands,,C,50.0,-50.0,England_Wales,False,True,True
+AG-ESTK01,2__ESTAT001,,Statkraft Markets Gmbh,STAT_E2,S,_E,Midlands,,C,20.0,-2.0,England_Wales,False,True,True
+AG-ESTK02,2__ESTAT002,,Statkraft Markets Gmbh,STAT_E3,S,_E,Midlands,,C,4.0,0.0,England_Wales,False,True,True
+AG-ESTK03,2__ESTAT003,,Statkraft Markets Gmbh,STAT_E4,S,_E,Midlands,,C,18.0,-2.0,England_Wales,False,True,True
+AG-ESTK04,2__ESTAT004,,Statkraft Markets Gmbh,STAT_E5,S,_E,Midlands,,C,12.603,0.0,England_Wales,False,True,True
+AG-ESTK05,2__ESTAT005,,Statkraft Markets Gmbh,STAT_E6,S,_E,Midlands,,C,20.0,0.0,England_Wales,False,True,True
+AG-ESTK06,C__ESTAT019,,Statkraft Markets Gmbh,C__ESTAT019-AR4-BSP-700,S,_E,Midlands,,C,32.0,0.0,England_Wales,False,True,True
+AG-ESTK99,2__ESTAT099,,Statkraft Markets Gmbh,STAT_E99,S,_E,Midlands,,C,6.0,-4.0,England_Wales,False,True,True
+AG-EUKP01,2__EUKPR001,,UK Power Reserve Limited,UKPR Mid,S,_E,Midlands,,C,20.0,-1.0,England_Wales,False,True,True
+AG-FFLX01,2__FFLEX001,,Flexitricity Limited,2__FFLEX001,S,_F,Northern,,C,49.0,0.0,England_Wales,False,True,True
+AG-FLIM01,2__FANGE001,,Limejump Energy Limited,2__FANGE001,S,_F,_F - Northern,,C,50.0,-3.72,England_Wales,False,True,True
+AG-FLIM02,2__FANGE002,,Limejump Energy Limited,2__FANGE002,S,_F,_F - Northern,,C,50.0,0.0,England_Wales,False,True,True
+AG-FLX00L,V__LFLEX001,,Flexitricity Limited,V__LFLEX001,V,_L,South Western,,P,3.738,-2.997,England_Wales,False,True,True
+AG-FSTK01,2__FSTAT001,,Statkraft Markets Gmbh,STAT_F2,S,_F,Northern,,C,50.0,-2.0,England_Wales,False,True,True
+AG-FSTK02,2__FSTAT002,,Statkraft Markets Gmbh,STAT_F3,S,_F,Northern,,C,50.0,-2.0,England_Wales,False,True,True
+AG-FSTK03,2__FSTAT003,,Statkraft Markets Gmbh,STAT_F4,S,_F,Northern,,C,50.0,-2.0,England_Wales,False,True,True
+AG-FSTK99,2__FSTAT099,,Statkraft Markets Gmbh,STAT_F99,S,_F,Northern,,C,4.0,-4.0,England_Wales,False,True,True
+AG-GEDF03,2__GLOND003,,EDF Energy Customers Limited,EDFE Aggregate NW Eng 3,S,_G,North Western,,C,50.0,-2.0,England_Wales,False,True,True
+AG-GEDF04,2__GLOND004,,EDF Energy Customers Limited,EDFE Aggregate NW Eng 4,S,_G,North Western,,C,24.0,-2.0,England_Wales,False,True,True
+AG-GEDF05,2__GLOND005,,EDF Energy Customers Limited,EDF Aggregate Midlands 2,S,_G,North Western,,C,24.0,-24.0,England_Wales,False,True,True
+AG-GFLX01,2__GFLEX001,,Flexitricity Limited,2__GFLEX001,S,_G,North Western,,C,49.0,0.0,England_Wales,False,True,True
+AG-GFLX02,2__GFLEX002,,Flexitricity Limited,2__GFLEX002,S,_G,North Western,,C,49.0,0.0,England_Wales,False,True,True
+AG-GFLX03,2__GFLEX003,,Flexitricity Limited,2__GFLEX003,S,_G,North Western,,C,49.0,0.0,England_Wales,False,True,True
+AG-GFLX04,2__GFLEX004,,Flexitricity Limited,2__GFLEX004,S,_G,North Western,,C,49.0,0.0,England_Wales,False,True,True
+AG-GFLX05,2__GFLEX005,,Flexitricity Limited,2__GFLEX005,S,_G,North Western,,C,49.0,0.0,England_Wales,False,True,True
+AG-GFLX06,2__GFLEX006,,Flexitricity Limited,2__GFLEX006,S,_G,North Western,,C,49.0,0.0,England_Wales,False,True,True
+AG-GFLX07,2__GFLEX007,,Flexitricity Limited,2__GFLEX007,S,_G,North Western,,C,49.0,0.0,England_Wales,False,True,True
+AG-GFLX08,2__GFLEX008,,Flexitricity Limited,2__GFLEX008,S,_G,North Western,,C,49.0,0.0,England_Wales,False,True,True
+AG-GFLX09,2__GFLEX009,,Flexitricity Limited,2__GFLEX009,S,_G,North Western,,C,49.0,0.0,England_Wales,False,True,True
+AG-GLIM01,2__GANGE001,,Limejump Energy Limited,2__GANGE001,S,_G,North Western,,C,50.0,-44.628,England_Wales,False,True,True
+AG-GLIM02,2__GANGE002,,Limejump Energy Limited,2__GANGE002,S,_G,North Western,,C,50.0,-6.58,England_Wales,False,True,True
+AG-GLIM03,2__GANGE003,,Limejump Energy Limited,2__GANGE003,S,_G,North Western,,C,10.321,0.0,England_Wales,False,True,True
+AG-GLIM04,2__GANGE004,,Limejump Energy Limited,2__GANGE004,S,_G,North Western,,C,20.34,0.0,England_Wales,False,True,True
+AG-GSMA01,2__GSMAE001,,Smartestenergy Limited,2__GSMAE001,S,_G,North Western,,C,19.402,0.0,England_Wales,False,True,True
+AG-GSTK01,2__GSTAT001,,Statkraft Markets Gmbh,STAT_G2,S,_G,North Western,,C,20.0,-2.0,England_Wales,False,True,True
+AG-GSTK02,2__GSTAT002,,Statkraft Markets Gmbh,STAT_G3,S,_G,North Western,,C,20.0,-2.0,England_Wales,False,True,True
+AG-GSTK03,2__GSTAT003,,Statkraft Markets Gmbh,STAT_G4,S,_G,North Western,,C,20.0,-2.0,England_Wales,False,True,True
+AG-GSTK04,2__GSTAT004,,Statkraft Markets Gmbh,STAT_G5,S,_G,North Western,,C,20.354,-2.0,England_Wales,False,True,True
+AG-GSTK05,2__GSTAT005,,Statkraft Markets Gmbh,STAT_G6,S,_G,North Western,,C,20.0,-20.557,England_Wales,False,True,True
+AG-GSTK06,2__GSTAT006,,Statkraft Markets Gmbh,STAT_G7,S,_G,North Western,,C,6.302,0.0,England_Wales,False,True,True
+AG-GSTK07,2__GSTAT007,,Statkraft Markets Gmbh,STAT_G8,S,_G,North Western,,C,8.0,0.0,England_Wales,False,True,True
+AG-GSTK08,2__GSTAT008,,Statkraft Markets Gmbh,STAT_G9,S,_G,North Western,,C,22.0,-2.0,England_Wales,False,True,True
+AG-GSTK09,2__GSTAT009,,Statkraft Markets Gmbh,STAT_G10,S,_G,North Western,,C,16.0,-16.0,England_Wales,False,True,True
+AG-GSTK10,2__GSTAT010,,Statkraft Markets Gmbh,STAT_G11,S,_G,North Western,,C,16.0,0.0,England_Wales,False,True,True
+AG-GSTK11,2__GSTAT011,,Statkraft Markets Gmbh,STAT_G12,S,_G,North Western,,C,14.0,0.0,England_Wales,False,True,True
+AG-GSTK12,2__GSTAT012,,Statkraft Markets Gmbh,STAT_G13,S,_G,North Western,,C,16.0,0.0,England_Wales,False,True,True
+AG-GSTK13,2__GSTAT013,,Statkraft Markets Gmbh,STAT_G14,S,_G,North Western,,C,14.0,0.0,England_Wales,False,True,True
+AG-GSTK14,2__GSTAT014,,Statkraft Markets Gmbh,STAT_G15,S,_G,North Western,,C,16.0,0.0,England_Wales,False,True,True
+AG-GSTK15,2__GSTAT015,,Statkraft Markets Gmbh,STAT_G16,S,_G,North Western,,C,16.0,0.0,England_Wales,False,True,True
+AG-GSTK16,2__GSTAT016,,Statkraft Markets Gmbh,STAT_G17,S,_G,North Western,,C,8.0,-8.0,England_Wales,False,True,True
+AG-GSTK17,2__GSTAT017,,Statkraft Markets Gmbh,STAT_G18,S,_G,North Western,,C,28.0,-2.0,England_Wales,False,True,True
+AG-GSTK99,2__GSTAT099,,Statkraft Markets Gmbh,STAT_G99,S,_G,North Western,,C,6.0,-6.0,England_Wales,False,True,True
+AG-GUKP01,2__GUKPR001,,UK Power Reserve Limited,UKPR NW,S,_G,North Western,,C,20.0,-1.0,England_Wales,False,True,True
+AG-HEDF01,2__HLOND001,,EDF Energy Customers Limited,EDFE Aggregate S E 01,S,_H,Southern,,C,29.782,-36.83,England_Wales,False,True,True
+AG-HEDF02,2__HLOND002,,EDF Energy Customers Limited,EDFE Aggregate S Eng 02,S,_H,Southern,,C,52.0,-52.0,England_Wales,False,True,True
+AG-HEDF03,2__HLOND003,,EDF Energy Customers Limited,EDF Aggregate South England 3,S,_H,Southern,,C,8.0,0.0,England_Wales,False,True,True
+AG-HFLX01,2__HFLEX001,,Flexitricity Limited,2__HFLEX001,S,_H,Southern,,C,49.0,0.0,England_Wales,False,True,True
+AG-HFLX02,2__HFLEX002,,Flexitricity Limited,2__HFLEX002,S,_H,Southern,,C,49.0,0.0,England_Wales,False,True,True
+AG-HLIM01,2__HANGE001,,Limejump Energy Limited,2__HANGE001,S,_H,Southern,,C,50.0,-20.791,England_Wales,False,True,True
+AG-HLIM02,2__HANGE002,,Limejump Energy Limited,2__HANGE002,S,_H,Southern,,C,50.0,-41.187,England_Wales,False,True,True
+AG-HLIM03,2__HANGE003,,Limejump Energy Limited,2__HANGE003,S,_H,Southern,,C,49.813,-52.284,England_Wales,False,True,True
+AG-HLIM04,2__HANGE004,,Limejump Energy Limited,2__HANGE004,S,_H,Southern,,C,49.335,-51.835,England_Wales,False,True,True
+AG-HLIM05,2__HANGE005,,Limejump Energy Limited,2__HANGE005,S,_H,Southern,,C,101.899,-106.454,England_Wales,False,True,True
+AG-HSMA01,2__HSMAE001,,Smartestenergy Limited,2__HSMAE001,S,_H,Southern,,C,15.748,0.0,England_Wales,False,True,True
+AG-HSTK01,2__HSTAT001,,Statkraft Markets Gmbh,STAT_H2,S,_H,Southern,,C,100.0,-100.0,England_Wales,False,True,True
+AG-HSTK02,2__HSTAT002,,Statkraft Markets Gmbh,STAT_H3,S,_H,Southern,,C,52.237,-50.0,England_Wales,False,True,True
+AG-HSTK03,2__HSTAT003,,Statkraft Markets Gmbh,STAT_H4,S,_H,Southern,,C,20.0,-2.0,England_Wales,False,True,True
+AG-HSTK04,2__HSTAT004,,Statkraft Markets Gmbh,STAT_H5,S,_H,Southern,,C,20.0,-20.793,England_Wales,False,True,True
+AG-HSTK05,2__HSTAT005,,Statkraft Markets Gmbh,STAT_H6,S,_H,Southern,,C,16.0,0.0,England_Wales,False,True,True
+AG-HSTK06,2__HSTAT006,,Statkraft Markets Gmbh,STAT_H7,S,_H,Southern,,C,16.0,0.0,England_Wales,False,True,True
+AG-HSTK07,2__HSTAT007,,Statkraft Markets Gmbh,STAT_H8,S,_H,Southern,,C,40.0,-40.0,England_Wales,False,True,True
+AG-HSTK08,2__HSTAT008,,Statkraft Markets Gmbh,STAT_H9,S,_H,Southern,,C,20.0,-20.0,England_Wales,False,True,True
+AG-HSTK09,2__HSTAT009,,Statkraft Markets Gmbh,STAT_H10,S,_H,Southern,,C,14.0,0.0,England_Wales,False,True,True
+AG-HSTK99,2__HSTAT099,,Statkraft Markets Gmbh,STAT_H99,S,_H,Southern,,C,2.0,-2.0,England_Wales,False,True,True
+AG-HUKP01,2__HUKPR001,,UK Power Reserve Limited,2__HUKPR001,S,_H,Southern,,C,20.0,-1.0,England_Wales,False,True,True
+AG-JEDF02,2__JLOND002,,EDF Energy Customers Limited,EDFE Aggregate S E Eng 02,S,_J,South Eastern,,C,12.0,-2.0,England_Wales,False,True,True
+AG-JEDF03,2__JLOND003,,EDF Energy Customers Limited,EDFE Aggregate S E Eng 03,S,_J,South Eastern,,C,12.0,-2.0,England_Wales,False,True,True
+AG-JLIM01,2__JANGE001,,Limejump Energy Limited,2__JANGE001,S,_J,South Eastern,,C,50.0,0.0,England_Wales,False,True,True
+AG-JSTK01,2__JSTAT001,,Statkraft Markets Gmbh,STAT_J2,S,_J,South Eastern,,C,22.0,-2.0,England_Wales,False,True,True
+AG-JSTK02,2__JSTAT002,,Statkraft Markets Gmbh,STAT_J3,S,_J,South Eastern,,C,6.305,-8.0,England_Wales,False,True,True
+AG-JSTK03,2__JSTAT003,,Statkraft Markets Gmbh,STAT_J4,S,_J,South Eastern,,C,22.0,0.0,England_Wales,False,True,True
+AG-JSTK99,2__JSTAT099,,Statkraft Markets Gmbh,STAT_J99,S,_J,South Eastern,,C,4.0,-2.0,England_Wales,False,True,True
+AG-JUKP01,2__JUKPR001,,UK Power Reserve Limited,UKPR S East,S,_J,South Eastern,,C,50.0,-50.0,England_Wales,False,True,True
+AG-KFLX01,2__KFLEX001,,Flexitricity Limited,2__KFLEX001,S,_K,South Wales,,C,49.0,0.0,England_Wales,False,True,True
+AG-KFLX02,2__KFLEX002,,Flexitricity Limited,2__KFLEX002,S,_K,South Wales,,C,49.0,0.0,England_Wales,False,True,True
+AG-KLIM01,2__KANGE001,,Limejump Energy Limited,2__KANGE001,S,_K,South Wales,,C,50.0,0.0,England_Wales,False,True,True
+AG-KSTK01,2__KSTAT001,,Statkraft Markets Gmbh,STAT_K2,S,_K,South Wales,,C,8.0,0.0,England_Wales,False,True,True
+AG-KSTK02,2__KSTAT002,,Statkraft Markets Gmbh,STAT_K3,S,_K,South Wales,,C,14.0,0.0,England_Wales,False,True,True
+AG-KSTK03,2__KSTAT003,,Statkraft Markets Gmbh,STAT_K4,S,_K,South Wales,,C,16.0,0.0,England_Wales,False,True,True
+AG-KSTK04,2__KSTAT004,,Statkraft Markets Gmbh,STAT_K5,S,_K,South Wales,,C,16.0,0.0,England_Wales,False,True,True
+AG-KSTK05,2__KSTAT005,,Statkraft Markets Gmbh,STAT_K6,S,_K,South Wales,,C,16.0,-2.0,England_Wales,False,True,True
+AG-KSTK06,2__KSTAT006,,Statkraft Markets Gmbh,STAT_K7,S,_K,South Wales,,C,21.032,-20.756,England_Wales,False,True,True
+AG-KSTK07,2__KSTAT007,,Statkraft Markets Gmbh,STAT_K8,S,_K,South Wales,,C,20.0,-2.0,England_Wales,False,True,True
+AG-KSTK99,2__KSTAT099,,Statkraft Markets Gmbh,STAT_K99,S,_K,South Wales,,C,4.0,-4.0,England_Wales,False,True,True
+AG-KUKP01,2__KUKPR001,,UK Power Reserve Limited,UKPR S Wales,S,_K,South Wales,,C,20.0,-1.0,England_Wales,False,True,True
+AG-LFLX01,2__LFLEX001,,Flexitricity Limited,2__LFLEX001,S,_L,South Western,,C,49.0,0.0,England_Wales,False,True,True
+AG-LLIM01,2__LANGE001,,Limejump Energy Limited,2__LANGE001,S,_L,South Western,,C,65.0,-29.282,England_Wales,False,True,True
+AG-LLIM02,2__LANGE002,,Limejump Energy Limited,2__LANGE002,S,_L,South Western,,C,50.0,-27.289,England_Wales,False,True,True
+AG-LSTK01,2__LSTAT001,,Statkraft Markets Gmbh,2_LSTAT001,S,_L,South Western,,C,20.0,-2.0,England_Wales,False,True,True
+AG-LSTK02,2__LSTAT002,,Statkraft Markets Gmbh,STAT_L3,S,_L,South Western,,C,20.858,-2.0,England_Wales,False,True,True
+AG-LSTK03,2__LSTAT003,,Statkraft Markets Gmbh,STAT_L4,S,_L,South Western,,C,20.0,-2.0,England_Wales,False,True,True
+AG-LSTK04,2__LSTAT004,,Statkraft Markets Gmbh,STAT_L5,S,_L,South Western,,C,20.0,-2.0,England_Wales,False,True,True
+AG-LSTK05,C__LSTAT020,,Statkraft Markets Gmbh,C__LSTAT020-AR4-LSF-700,S,_L,South Western,,C,62.0,0.0,England_Wales,False,True,True
+AG-LSTK99,2__LSTAT099,,Statkraft Markets Gmbh,STAT_L99,S,_L,South Western,,C,6.0,-4.0,England_Wales,False,True,True
+AG-LUKP01,2__LUKPR001,,UK Power Reserve Limited,UKPR S West,S,_L,South Western,,C,10.2,-1.0,England_Wales,False,True,True
+AG-MCAM01,2__MCMRO002,,BGI Trading Limited,2__MCMRO002,S,_M,Yorkshire,,C,36.844,-37.093,England_Wales,False,True,True
+AG-MCET01,2__MCNDL002,,NEAS Energy Ltd.,Brigg DG-2,S,_M,Yorkshire,,C,48.528,0.0,England_Wales,False,True,True
+AG-MFLX01,2__MFLEX001,,Flexitricity Limited,2__MFLEX001,S,_M,Yorkshire,,C,49.0,0.0,England_Wales,False,True,True
+AG-MFLX02,2__MFLEX002,,Flexitricity Limited,2__MFLEX002,S,_M,Yorkshire,,C,49.0,0.0,England_Wales,False,True,True
+AG-MFLX03,2__MFLEX003,,Flexitricity Limited,2__MFLEX003,S,_M,Yorkshire,,C,49.0,0.0,England_Wales,False,True,True
+AG-MFLX04,2__MFLEX004,,Flexitricity Limited,2__MFLEX004,S,_M,Yorkshire,,C,49.0,0.0,England_Wales,False,True,True
+AG-MLIM01,2__MANGE001,,Limejump Energy Limited,2__MANGE001,S,_M,Yorkshire,,C,50.0,0.0,England_Wales,False,True,True
+AG-MLIM02,2__MANGE002,,Limejump Energy Limited,2__MANGE002,S,_M,Yorkshire,,C,50.0,0.0,England_Wales,False,True,True
+AG-MSMA01,2__MSMAE001,,Smartestenergy Limited,2__MSMAE001,S,_M,Yorkshire,,C,21.158,0.0,England_Wales,False,True,True
+AG-MSMA02,2__MSMAE002,,Smartestenergy Limited,2__MSMAE002,S,_M,Yorkshire,,C,15.72,0.0,England_Wales,False,True,True
+AG-MSTK01,2__MSTAT001,,Statkraft Markets Gmbh,STAT_M2,S,_M,Yorkshire,,C,50.0,-50.0,England_Wales,False,True,True
+AG-MSTK02,2__MSTAT002,,Statkraft Markets Gmbh,STAT_M3,S,_M,Yorkshire,,C,50.0,-2.0,England_Wales,False,True,True
+AG-MSTK03,2__MSTAT003,,Statkraft Markets Gmbh,STAT_M4,S,_M,Yorkshire,,C,16.0,0.0,England_Wales,False,True,True
+AG-MSTK04,2__MSTAT004,,Statkraft Markets Gmbh,STAT_M5,S,_M,Yorkshire,,C,6.0,0.0,England_Wales,False,True,True
+AG-MSTK05,2__MSTAT005,,Statkraft Markets Gmbh,STAT_M6,S,_M,Yorkshire,,C,8.0,-8.0,England_Wales,False,True,True
+AG-MSTK06,2__MSTAT006,,Statkraft Markets Gmbh,STAT_M7,S,_M,Yorkshire,,C,16.0,0.0,England_Wales,False,True,True
+AG-POW01B,V__BJOUL001,,Joulen,V__BJOUL001,V,_B,East Midlands,,C,1.5,-1.5,England_Wales,False,True,True
+AG-REC05L,2__LECOT003,,ECOTRICITY LIMITED,ECOT_VPP_22,S,_L,South Western,,C,10.0,-10.0,England_Wales,False,True,True
+AG-REC06B,2__BECOT003,,ECOTRICITY LIMITED,ECOT_VPP_11,S,_B,East Midlands,,C,16.0,0.0,England_Wales,False,True,True
+AG-ZEN03J,V__JZENO001,OTHER,BESS Holdco 2 Limited,V__JZENO001,V,_J,South Eastern,,C,0.0,0.0,England_Wales,False,True,True
+ALCOA-1,E_ALCOA-1,,Conrad Energy (Trading) Ltd,Alcoa,E,_K,South Wales,,C,40.5,-1.1,England_Wales,False,True,True
+ARNKB-1,E_ARNKB-1,,Octopus Energy Trading Limited,AR0006-BLOX,E,_E,Midlands,,P,41.66,-41.62,England_Wales,False,True,True
+ARNKB-2,E_ARNKB-2,,Flexitricity Limited,Hutton Battery Storage,E,_A,Eastern,,C,49.0,0.0,England_Wales,False,True,True
+BARNB-1,E_BARNB-1,,EDF Energy Customers Limited,Hunningley Stairfoot BESS,E,_M,Yorkshire,,C,44.0,-44.0,England_Wales,False,True,True
+BBPG01,2__BBPGM001,,BP Gas Marketing Limited,2__BBPGM001,S,_B,East Midlands,,C,10.19,-8.48,England_Wales,False,True,True
+BERKB-1,E_BERKB-1,,EDF Energy Customers Limited,Berkeley BESS,E,_E,Midlands,,C,52.0,-52.0,England_Wales,False,True,True
+BERKB-2,E_BERKB-2,,EDF Energy Customers Limited,Berkeley BESS,E,_E,Midlands,,C,52.0,-52.0,England_Wales,False,True,True
+BFSE01,2__BFSEN005,,F & S Energy Ltd,2__BFSENOK5,S,_B,East Midlands,,C,52.529,-54.564,England_Wales,False,True,True
+BHOLB-1,E_BHOLB-1,,Tesla Motors Limited,Holes Bay Battery,E,_H,Southern,,P,7.12,-7.426,England_Wales,False,True,True
+BLKPB-1,E_BLKPB-1,,Conrad Energy (Trading) Ltd,Blackpool,E,_G,North Western,,C,25.3,-25.604,England_Wales,False,True,True
+BNCRG-1,V__GFORS002,,Forsa Trading Limited,V__GFORS002,V,_G,North Western,,P,20.0,0.0,England_Wales,False,True,True
+BRETB-1,E_BRETB-1,,EDF Energy Customers Limited,Brentwood BESS,E,_A,Eastern,,C,52.0,-52.0,England_Wales,False,True,True
+BRETB-2,E_BRETB-2,,EDF Energy Customers Limited,Brentwood BESS,E,_A,Eastern,,C,52.0,-52.0,England_Wales,False,True,True
+BRGDG-1,2__MCNDL001,,NEAS Energy Ltd.,Brigg DG,S,_M,Yorkshire,,C,51.433,0.0,England_Wales,False,True,True
+BRGG-1,E_BRGG-1,CCGT,CBS ENERGY STORAGE ASSETS LTD,Glanford Brigg,E,_M,Yorkshire,,C,50.0,-5.0,England_Wales,False,True,True
+BRIDU-1,E_BRIDGWTR,,UK Power Reserve Limited,Bridgwater Power Station,E,_L,South Western,,C,10.18,0.0,England_Wales,False,True,True
+BROAB-1,E_BROAB-1,,Tesla Motors Limited,Broadditch Battery,E,_J,South Eastern,,P,11.0,-11.0,England_Wales,False,True,True
+BROFB-1,E_BROFB-1,,EDF Energy Customers Limited,Brook Farm BESS,E,_A,Eastern,,C,52.0,-52.803,England_Wales,False,True,True
+BSPHM-1,E_BSPHM-1,,Conrad Energy (Trading) Ltd,Bispham,E,_G,North Western,,C,20.0,0.0,England_Wales,False,True,True
+BTNHL-1,E_BTNHL-1,,Conrad Energy (Trading) Ltd,Barton Hill,E,_L,South Western,,C,20.92,-1.0,England_Wales,False,True,True
+BURBW-1,E_BURBO,WIND,Orsted Burbo (UK) Limited,Burbo Offshore Wind,E,_D,Merseyside North Wales,,P,90.0,-2.0,England_Wales,False,True,True
+BURGH-1,E_BURGH-1,,SSEPG (Operations) Ltd,Burghfield Power Station,E,_H,Southern,,P,48.0,-1.0,England_Wales,False,True,True
+BURWB-1,E_BURWB-1,OTHER,Arenko Cleantech Limited,Burwell Weirs Drove BESS,E,_A,Eastern,,C,50.533,-50.861,England_Wales,False,True,True
+BURWB-2,E_BURWB-2,,EDF Energy Customers Limited,Burwell 1,E,_A,Eastern,,C,52.0,-52.0,England_Wales,False,True,True
+BURWB-3,E_BURWB-3,,EDF Energy Customers Limited,Burwell 2,E,_A,Eastern,,C,30.0,-30.0,England_Wales,False,True,True
+BUXTB-1,2__GCMRO001,,BGI Trading Limited,2__GCMRO001,S,_G,North Western,,C,16.379,-16.941,England_Wales,False,True,True
+CAMFB-1,2__MBPGM001,,BP Gas Marketing Limited,Camblesforth BESS,S,_M,Yorkshire,,C,10.0,-10.0,England_Wales,False,True,True
+CHAPB-1,E_CHAPB-1,,Tesla Motors Limited,Chapel Farm BESS,E,_A,Eastern,,P,50.169,-50.21,England_Wales,False,True,True
+CHDTG-1,V__GFORS003,,Forsa Trading Limited,V__GFORS003,V,_G,North Western,,P,20.0,0.0,England_Wales,False,True,True
+CHICK-1,E_CHICK-1,,SSEPG (Operations) Ltd,Chickerell Power Station,E,_H,Southern,,P,48.0,-1.0,England_Wales,False,True,True
+CHTRY-1,E_CHTRY-1,,Conrad Energy (Trading) Ltd,Chatterley,E,_E,Midlands,,C,20.0,0.0,England_Wales,False,True,True
+CLAYB-1,E_CLAYB-1,,Tesla Motors Limited,ClayTye Farm 1 Battery Storage,E,_A,Eastern,,P,49.5,-49.5,England_Wales,False,True,True
+CLAYB-2,E_CLAYB-2,,Tesla Motors Limited,ClayTye Farm 2 Battery Storage,E,_A,Eastern,,P,49.5,-49.5,England_Wales,False,True,True
+CONTB-1,E_CONTB-1,,Tesla Motors Limited,Contego Battery,E,_J,South Eastern,,P,35.8,-34.445,England_Wales,False,True,True
+CORB-1,E_CORB-1,CCGT,EP UK INVESTMENTS LIMITED,CORBY POWER LIMITED,E,_B,East Midlands,,P,240.0,-0.1,England_Wales,False,True,True
+COWE1,E_COWE1,OCGT,RWE Generation UK plc,Cowes Main Unit 1,E,_H,Southern,,P,70.0,-2.0,England_Wales,False,True,True
+COWE2,E_COWE2,OCGT,RWE Generation UK plc,Cowes Main Unit 2,E,_H,Southern,,P,70.0,-2.0,England_Wales,False,True,True
+CROYD-2,E_CROYD-2,,Whitetower Energy Limited,Croydon PS,E,_J,South Eastern,,P,50.0,-6.0,England_Wales,False,True,True
+CRSSB-1,E_CRSSB-1,,Arenko Cleantech Limited,Carnegie Road 1,E,_D,Merseyside North Wales,,P,20.0,-20.63,England_Wales,False,True,True
+CWMD-1,E_CWMD-1,,RWE Generation UK plc,Cwm Dyli,E,_D,Merseyside North Wales,,P,9.9,-1.0,England_Wales,False,True,True
+DBFRM-1,E_DBFRM-1,,Conrad Energy (Trading) Ltd,Down Barn Farm,E,_H,Southern,,C,20.0,-1.0,England_Wales,False,True,True
+DERBY-2,E_DERBY-1,,Whitetower Energy Limited,DERBY,E,_B,East Midlands,,P,56.084,-6.0,England_Wales,False,True,True
+DERW-1,E_DERW-1,,UK Power Reserve Limited,Derwent Cogeneration Ltd,E,_B,East Midlands,,P,218.0,-3.0,England_Wales,False,True,True
+DIDC01G,E_DIDC1G,OCGT,RWE Generation UK plc,Didcot OCGT Unit 1,E,_H,Southern,,P,25.0,0.0,England_Wales,False,True,True
+DIDC02G,E_DIDC2G,OCGT,RWE Generation UK plc,Didcot OCGT Unit 2,E,_H,Southern,,P,25.0,0.0,England_Wales,False,True,True
+DIDC03G,E_DIDC3G,OCGT,RWE Generation UK plc,Didcot OCGT Unit 3,E,_H,Southern,,P,25.0,0.0,England_Wales,False,True,True
+DIDC04G,E_DIDC4G,OCGT,RWE Generation UK plc,Didcot OCGT Unit 4,E,_H,Southern,,P,25.0,0.0,England_Wales,False,True,True
+DOLLB-1,E_DOLLB-1,OTHER,Dollymans Storage Limited,Dollymans Storage,E,_A,Eastern,,P,102.0,-100.82,England_Wales,False,True,True
+DOWL-1,E_DOWL-1,OTHER,Conrad Energy (Trading) Ltd,Dowlais II,E,_K,South Wales,,C,21.02,-1.0,England_Wales,False,True,True
+DRAXD-1,E__MDRX001,,Drax Power Ltd,E__MDRX001,E,_M,Yorkshire,,P,49.0,-133.862,England_Wales,False,True,True
+EAS-AXPO1,2__AAXPO000,,AXPO UK LIMITED,2__AAXPO000,G,_A,Eastern,,C,100.0,-16.0,England_Wales,False,True,True
+EAS-ENR01,2__AENRD000,,British Gas Trading Ltd,2__AENRD000,G,_A,Eastern,,C,40.0,-204.952,England_Wales,False,True,True
+EAS-EON01,2__AEOND000,,E.ON Next Energy Ltd,2__AEOND000,G,_A,Eastern,,C,2.0,-538.0,England_Wales,False,True,True
+EAS-GDF01,2__ARWED000,,ENGIE Power Limited,2__ARWED000,G,_A,Eastern,,C,104.0,-100.0,England_Wales,False,True,True
+EAS-HPW01,2__AHPOW000,,Drax Energy Solutions Limited,2__AHPOW000,G,_A,Eastern,,C,1.0,-196.296,England_Wales,False,True,True
+EAS-HVN01,2__AHAVE000,,Drax Energy Solutions Limited,2__AHAVE000,G,_A,Eastern,,C,38.28,0.0,England_Wales,False,True,True
+EAS-NPE01,2__ANATP000,,Npower Commercial Gas Limited,NPEC Eastern Area NATP,G,_A,Eastern,,C,82.0,-238.0,England_Wales,False,True,True
+EAS-OCT01,2__AMRCY000,,Octopus Energy Limited,2__AMRCY000,G,_A,Eastern,,C,959.56,-907.173,England_Wales,False,True,True
+EAS-TFE01,2__ATGPL000,,TotalEnergies Gas & Power Ltd,2__ATGPL000,G,_A,Eastern,,C,240.735,-304.203,England_Wales,False,True,True
+ECEN01,2__ECNDL001,,NEAS Energy Ltd.,Redditch,S,_E,Midlands,,C,20.863,0.0,England_Wales,False,True,True
+EMD-AXPO1,2__BAXPO000,,AXPO UK LIMITED,2__BAXPO000,G,_B,East Midlands,,C,13.0,-18.0,England_Wales,False,True,True
+EMD-ENR01,2__BENRD000,,British Gas Trading Ltd,2__BENRD000,G,_B,East Midlands,,C,8.0,-157.83,England_Wales,False,True,True
+EMD-EON01,2__BEOND000,,E.ON Next Energy Ltd,2__BEOND000,G,_B,East Midlands,,C,14.0,-378.0,England_Wales,False,True,True
+EMD-GDF01,2__BRWED000,,ENGIE Power Limited,2__BRWED000,G,_B,East Midlands,,C,10.0,-130.0,England_Wales,False,True,True
+EMD-HPW01,2__BHPOW000,,Drax Energy Solutions Limited,2__BHPOW000,G,_B,East Midlands,,C,1.0,-265.084,England_Wales,False,True,True
+EMD-HVN01,2__BHAVE000,,Drax Energy Solutions Limited,2__BHAVE000,G,_B,East Midlands,,C,78.8,0.0,England_Wales,False,True,True
+EMD-LON01,2__BLOND000,,EDF Energy Customers Limited,LE Default BMUid EMEB,G,_B,East Midlands,,C,100.0,-370.0,England_Wales,False,True,True
+EMD-NPE01,2__BNATP000,,Npower Commercial Gas Limited,NPEC East Mid Area NATP,G,_B,East Midlands,,C,44.0,-182.0,England_Wales,False,True,True
+EMD-OCT01,2__BMRCY000,,Octopus Energy Limited,2__BMRCY000,G,_B,East Midlands,,C,644.28,-605.171,England_Wales,False,True,True
+EMD-TFE01,2__BTGPL000,,TotalEnergies Gas & Power Ltd,2__BTGPL000,G,_B,East Midlands,,C,163.502,-321.571,England_Wales,False,True,True
+ESSE01,2__EIMPO002,,SSE Energy Supply Limited,2__EIMPO002,S,_E,Midlands,,C,1.9,-1.9,England_Wales,False,True,True
+EXETR-2,E_EXETR-2,,Whitetower Energy Limited,Exeter,E,_L,South Western,,P,50.0,-6.0,England_Wales,False,True,True
+FARNB-1,E_FARNB-1,,Tesla Motors Limited,Farnham BESS,E,_H,Southern,,P,20.0,-20.0,England_Wales,False,True,True
+FAWN-1,E_FAWN-1,CCGT,ESSO Petroleum Company Ltd,Fawley Cogen,E,_H,Southern,,C,155.0,0.0,England_Wales,False,True,True
+FBPG01,2__FBPGM001,,BP Gas Marketing Limited,Wormald Green BESS,S,_F,Northern,,C,40.0,-34.4,England_Wales,False,True,True
+FBPG02,2__FBPGM002,,BP Gas Marketing Limited,Hawthorn Pit BESS,S,_F,Northern,,C,60.0,-54.8,England_Wales,False,True,True
+FDUNT-1,E_FDUN-1,,Whitetower Energy Limited,Fort Dunlop,E,_E,Midlands,,C,99.0,-1.0,England_Wales,False,True,True
+FELL-1,E_FELL-1,CCGT,NDA,E_FELL-1,E,_G,North Western,,P,140.0,-40.0,England_Wales,False,True,True
+GFLDW-1,E_GFLDW-1,,Edgware Energy Limited,Goole Fields Wind Farm,E,_M,Yorkshire,,C,32.8,-0.22,England_Wales,False,True,True
+GFSE01,2__GFSEN005,,F & S Energy Ltd,2__GFSENOK5,S,_G,North Western,,C,48.783,-48.84,England_Wales,False,True,True
+GFSE02,2__GFSEN006,,F & S Energy Ltd,2__GFSENOK6,S,_G,North Western,,C,46.138,-47.926,England_Wales,False,True,True
+GLSBB-1,2__JCPPR002,,Octopus Energy Trading Limited,Glassenbury B,S,_J,South Eastern,,C,10.0,-10.0,England_Wales,False,True,True
+GOSHS-1,E_GOSHS-1,,Conrad Energy (Trading) Ltd,Goose House Lane,E,_G,North Western,,C,20.0,-1.0,England_Wales,False,True,True
+GRCRB-1,E_GRCRB-1,,FIELD GERRARDS CROSS LTD,Gerrards Cross BESS,E,_H,Southern,,P,20.0,-20.0,England_Wales,False,True,True
+GSMA03,2__GSMAE003,,Smartestenergy Limited,2__GSMAE003,S,_G,North Western,,C,61.882,0.0,England_Wales,False,True,True
+GYAR-1,E_GYAR-1,CCGT,RWE Generation UK plc,Great Yarmouth Power Limited,E,_A,Eastern,,P,402.0,-18.0,England_Wales,False,True,True
+HAWKB-1,E_HAWKB-1,,Tesla Motors Limited,HawkersHill  Battery,E,_H,Southern,,P,20.0,-20.0,England_Wales,False,True,True
+HLLHG-1,V__GFORS004,,Forsa Trading Limited,V__GFORS004,V,_G,North Western,,P,20.0,0.0,England_Wales,False,True,True
+HRTMG-1,V__FFORS001,,Forsa Trading Limited,V__FFORS001,V,_F,Northern,,P,50.0,0.0,England_Wales,False,True,True
+HSSE01,2__HIMPO002,,SSE Energy Supply Limited,2__HIMPO002,S,_H,Southern,,C,52.564,-52.849,England_Wales,False,True,True
+ILMEB-1,E_ILMEB-1,,Tesla Motors Limited,Ilmer Lane BESS,E,_A,Eastern,,P,49.5,-49.5,England_Wales,False,True,True
+KLYN-A-1,E_KLYN-A-1,CCGT,RWE Generation UK plc,Kings Lynn A,E,_A,Eastern,,P,392.0,-10.0,England_Wales,False,True,True
+LCHWT-1,E_LCHWT-1,,Conrad Energy (Trading) Ltd,Letchworth,E,_A,Eastern,,C,15.0,-1.0,England_Wales,False,True,True
+LCKLB-1,2__LRWED001,,ENGIE Power Limited,2__LRWED001,S,_L,South Western,,C,15.3,-15.0,England_Wales,False,True,True
+LFSE01,2__LFSEN200,,F & S Energy Ltd,2__LFSENIN200,S,_L,South Western,,C,3.041,-3.15,England_Wales,False,True,True
+LNMTH-1,E_LYNE1,BIOMASS,EP UK INVESTMENTS LIMITED,LYNEMOUTH GENERATOR 1,E,_F,Northern,,P,140.0,-20.0,England_Wales,False,True,True
+LNMTH-2,E_LYNE2,BIOMASS,EP UK INVESTMENTS LIMITED,LYNEMOUTH GENERATOR 2,E,_F,Northern,,P,140.0,-20.0,England_Wales,False,True,True
+LNMTH-3,E_LYNE3,BIOMASS,EP UK INVESTMENTS LIMITED,LYNEMOUTH GENERATOR 3,E,_F,Northern,,P,140.0,-20.0,England_Wales,False,True,True
+LON-EON01,2__CEOND000,,E.ON Next Energy Ltd,2__CEOND000,G,_C,London,,C,2.0,-156.0,England_Wales,False,True,True
+LON-GDF01,2__CRWED000,,ENGIE Power Limited,2__CRWED000,G,_C,London,,C,4.0,-44.0,England_Wales,False,True,True
+LON-NPE01,2__CNATP000,,Npower Commercial Gas Limited,NPEC London Area NATP,G,_C,London,,C,10.0,-238.0,England_Wales,False,True,True
+LON-OCT01,2__CMRCY000,,Octopus Energy Limited,2__CMRCY000,G,_C,London,,C,515.76,-450.26,England_Wales,False,True,True
+LON-TFE01,2__CTGPL000,,TotalEnergies Gas & Power Ltd,2__CTGPL000,G,_C,London,,C,8.0,-357.615,England_Wales,False,True,True
+LSTWY-1,E_LSTWY-1,,Conrad Energy (Trading) Ltd,Lester Way,E,_H,Southern,,C,12.72,-1.0,England_Wales,False,True,True
+MANNB-1,V__HFEEL002,,EDF Energy Limited,V__HFEEL002,V,_H,Southern,,C,46.33,-55.942,England_Wales,False,True,True
+MANXENR-1,E_MANXENR-1,,Smartestenergy Limited,ENRON MANX,E,_G,North Western,,C,63.74,-62.903,England_Wales,False,True,True
+MDLWH-1,E_MDLWH-1,,Conrad Energy (Trading) Ltd,Middlewich,E,_D,Merseyside North Wales,,C,20.0,0.0,England_Wales,False,True,True
+MID-AXPO1,2__EAXPO000,,AXPO UK LIMITED,2__EAXPO000,G,_E,Midlands,,C,35.0,-23.0,England_Wales,False,True,True
+MID-EON01,2__EEOND000,,E.ON Next Energy Ltd,2__EEOND000,G,_E,Midlands,,C,2.0,-316.0,England_Wales,False,True,True
+MID-GDF01,2__ERWED000,,ENGIE Power Limited,2__ERWED000,G,_E,Midlands,,C,8.0,-112.0,England_Wales,False,True,True
+MID-HPW01,2__EHPOW000,,Drax Energy Solutions Limited,2__EHPOW000,G,_E,Midlands,,C,19.6,-251.859,England_Wales,False,True,True
+MID-NPE01,2__ENATP000,,Npower Commercial Gas Limited,NPEC Midlands Area NATP,G,_E,Midlands,,C,2.0,-256.0,England_Wales,False,True,True
+MID-OCT01,2__EMRCY000,,Octopus Energy Limited,2__EMRCY000,G,_E,Midlands,,C,571.2,-557.042,England_Wales,False,True,True
+MID-OVO01,2__EOVOE000,,OVO Electricity Ltd,2__EOVOE000,G,_E,Midlands,,C,6.802,-123.4,England_Wales,False,True,True
+MID-TFE01,2__ETGPL000,,TotalEnergies Gas & Power Ltd,2__ETGPL000,G,_E,Midlands,,C,30.0,-301.183,England_Wales,False,True,True
+MNW-AXPO1,2__DAXPO000,,AXPO UK LIMITED,2__DAXPO000,G,_D,Merseyside North Wales,,C,6.0,-18.0,England_Wales,False,True,True
+MNW-EON01,2__DEOND000,,E.ON Next Energy Ltd,2__DEOND000,G,_D,Merseyside North Wales,,C,40.0,-130.0,England_Wales,False,True,True
+MNW-GDF01,2__DRWED000,,ENGIE Power Limited,2__DRWED000,G,_D,Merseyside North Wales,,C,60.0,-66.0,England_Wales,False,True,True
+MNW-HPW01,2__DHPOW000,,Drax Energy Solutions Limited,2__DHPOW000,G,_D,Merseyside North Wales,,C,0.12,-113.709,England_Wales,False,True,True
+MNW-HVN01,2__DHAVE000,,Drax Energy Solutions Limited,2__DHAVE000,G,_D,Merseyside North Wales,,C,51.08,0.0,England_Wales,False,True,True
+MNW-NPE01,2__DNATP000,,Npower Commercial Gas Limited,NPEC MANWEB Area NATP,G,_D,Merseyside North Wales,,C,24.0,-164.0,England_Wales,False,True,True
+MNW-OCT01,2__DMRCY000,,Octopus Energy Limited,2__DMRCY000,G,_D,Merseyside North Wales,,C,292.32,-310.548,England_Wales,False,True,True
+MNW-OVO01,2__DOVOE000,,OVO Electricity Ltd,2__DOVOE000,G,_D,Merseyside North Wales,,C,15.05,-56.6,England_Wales,False,True,True
+MNW-TFE01,2__DTGPL000,,TotalEnergies Gas & Power Ltd,2__DTGPL000,G,_D,Merseyside North Wales,,C,10.0,-210.846,England_Wales,False,True,True
+MORFL-1,E_MORFL-1,,Conrad Energy (Trading) Ltd,Moorfield Drive,E,_G,North Western,,C,20.0,-1.0,England_Wales,False,True,True
+NEE-AXPO1,2__FAXPO000,,AXPO UK LIMITED,2__FAXPO000,G,_F,Northern,,C,23.0,-8.0,England_Wales,False,True,True
+NEE-EON01,2__FEOND000,,E.ON Next Energy Ltd,2__FEOND000,G,_F,Northern,,C,2.0,-174.0,England_Wales,False,True,True
+NEE-GDF01,2__FRWED000,,ENGIE Power Limited,2__FRWED000,G,_F,Northern,,C,38.0,-72.0,England_Wales,False,True,True
+NEE-HPW01,2__FHPOW000,,Drax Energy Solutions Limited,2__FHPOW000,G,_F,Northern,,C,12.0,-156.42,England_Wales,False,True,True
+NEE-HVN01,2__FHAVE000,,Drax Energy Solutions Limited,2__FHAVE000,G,_F,Northern,,C,34.98,0.0,England_Wales,False,True,True
+NEE-NPE01,2__FNATP000,,Npower Commercial Gas Limited,NPEC Northern Area NATP,G,_F,Northern,,C,12.0,-104.0,England_Wales,False,True,True
+NEE-OCT01,2__FMRCY000,,Octopus Energy Limited,2__FMRCY000,G,_F,Northern,,C,369.88,-328.017,England_Wales,False,True,True
+NEE-OVO01,2__FOVOE000,,OVO Electricity Ltd,2__FOVOE000,G,_F,Northern,,C,35.9,-59.8,England_Wales,False,True,True
+NEE-TFE01,2__FTGPL000,,TotalEnergies Gas & Power Ltd,2__FTGPL000,G,_F,Northern,,C,10.0,-126.65,England_Wales,False,True,True
+NEWPB-1,E_NEWPB-1,,Field Newport Ltd,Newport BESS,E,_K,South Wales,,P,20.933,-20.931,England_Wales,False,True,True
+NEWTB-1,E_NEWTB-1,,EDF Energy Customers Limited,Newton wood BESS,E,_B,East Midlands,,C,52.0,-52.0,England_Wales,False,True,True
+NTAWB-1,E_NTAWB-1,,EDF Energy Customers Limited,North Tawton BESS,E,_L,South Western,,C,32.0,-32.0,England_Wales,False,True,True
+NWP-AXPO1,2__GAXPO000,,AXPO UK LIMITED,2__GAXPO000,G,_G,North Western,,C,0.5,-16.0,England_Wales,False,True,True
+NWP-EON01,2__GEOND000,,E.ON Next Energy Ltd,2__GEOND000,G,_G,North Western,,C,2.0,-316.0,England_Wales,False,True,True
+NWP-GDF01,2__GRWED000,,ENGIE Power Limited,2__GRWED000,G,_G,North Western,,C,16.0,-96.0,England_Wales,False,True,True
+NWP-HPW01,2__GHPOW000,,Drax Energy Solutions Limited,2__GHPOW000,G,_G,North Western,,C,21.5,-213.36,England_Wales,False,True,True
+NWP-HVN01,2__GHAVE000,,Drax Energy Solutions Limited,2__GHAVE000,G,_G,North Western,,C,61.36,0.0,England_Wales,False,True,True
+NWP-NPE01,2__GNATP000,,Npower Commercial Gas Limited,NPEC NORWEB Area NATP,G,_G,North Western,,C,36.0,-250.0,England_Wales,False,True,True
+NWP-OCT01,2__GMRCY000,,Octopus Energy Limited,2__GMRCY000,G,_G,North Western,,C,574.84,-524.516,England_Wales,False,True,True
+NWP-OVO01,2__GOVOE000,,OVO Electricity Ltd,2__GOVOE000,G,_G,North Western,,C,12.26,-87.6,England_Wales,False,True,True
+NWP-TFE01,2__GTGPL000,,TotalEnergies Gas & Power Ltd,2__GTGPL000,G,_G,North Western,,C,84.0,-216.509,England_Wales,False,True,True
+OLDHB-1,E_OLDHB-1,,Field Oldham Ltd,Oldham BESS,E,_G,North Western,,P,20.0,-20.0,England_Wales,False,True,True
+PETEM1,E_PETEM1,CCGT,River Nene Power Limited,Peterborough,E,_A,Eastern,,P,245.0,-5.0,England_Wales,False,True,True
+PETEM3,E_PETEM3,OTHER,River Nene Power Limited,Peterborough Power 3,E,_A,Eastern,,C,49.227,-48.5,England_Wales,False,True,True
+PGBRK-1,E_PGBRKL,,Peak Gen Top Co Limited,E_PGBRKL,E,_H,Southern,,P,20.0,-2.028,England_Wales,False,True,True
+PGBRY-1,E_PGBARY,,Peak Gen Top Co Limited,E_PGBARY,E,_K,South Wales,,P,20.318,-0.5,England_Wales,False,True,True
+PGCOV-1,E_PGCOVE,,Peak Gen Top Co Limited,E_PGCOVE,E,_B,East Midlands,,P,6.0,-0.1,England_Wales,False,True,True
+PGDID-1,E_PGDIDC,,Peak Gen Top Co Limited,E_PGDIDC,E,_H,Southern,,P,6.0,-0.1,England_Wales,False,True,True
+PGEXT-1,E_PGEXTR,,Peak Gen Top Co Limited,E_PGEXTR,E,_L,South Western,,P,20.439,-0.5,England_Wales,False,True,True
+PGFAR-1,E_PGFARE,,Peak Gen Top Co Limited,E_PGFARE,E,_H,Southern,,P,20.0,-0.5,England_Wales,False,True,True
+PGHAT-1,E_PGHATF,,Peak Gen Top Co Limited,E_PGHATF,E,_A,Eastern,,P,6.0,-0.1,England_Wales,False,True,True
+PGHAY-1,E_PGHAYD,,Peak Gen Top Co Limited,E_PGHAYD,E,_G,North Western,,P,6.398,-0.1,England_Wales,False,True,True
+PGHVT-1,E_PGHVNT,,Peak Gen Top Co Limited,E_PGHVNT,E,_H,Southern,,P,20.0,-0.5,England_Wales,False,True,True
+PGLAN-1,E_PGLLAN,,Peak Gen Top Co Limited,E_PGLLAN,E,_K,South Wales,,P,20.525,-0.5,England_Wales,False,True,True
+PGPET-1,E_PGPETE,,Peak Gen Top Co Limited,Peakgen Power 2,E,_A,Eastern,,P,20.0,-8.5,England_Wales,False,True,True
+PGSOU-1,E_PGSOUT,,Peak Gen Top Co Limited,E_PGSOUT,E,_H,Southern,,P,24.0,-0.5,England_Wales,False,True,True
+PILLB-1,E_PILLB-1,,BP Gas Marketing Limited,Pillswood 1 Battery Storage,E,_M,Yorkshire,,P,49.9,-49.9,England_Wales,False,True,True
+PILLB-2,E_PILLB-2,,BP Gas Marketing Limited,Pillswood 2 Battery Storage,E,_M,Yorkshire,,P,49.9,-49.9,England_Wales,False,True,True
+PLYRK-1,E_PLYRK-1,OTHER,Conrad Energy (Trading) Ltd,Plymouth Rock,E,_L,South Western,,C,15.0,-1.0,England_Wales,False,True,True
+POTES-1,E_POTES-1,,Arenko Cleantech Limited,Port of Tyne Energy Storage,E,_F,Northern,,C,35.0,-35.0,England_Wales,False,True,True
+RAKE-1,E_RAKE-1,,Conrad Energy (Trading) Ltd,Rake Lane,E,_G,North Western,,C,20.0,-1.0,England_Wales,False,True,True
+RASSP-1,E_RASSP-1,,Flexitricity Limited,Rassau Sync Con  Set,E,_K,South Wales,,C,49.0,0.0,England_Wales,False,True,True
+RCKFB-1,V__EFEEL400,,EDF Energy Limited,V__EFEEL400,V,_E,Midlands,,P,20.0,-12.188,England_Wales,False,True,True
+RDFRB-1,E_RDFRB-1,,Conrad Energy (Trading) Ltd,Redfield Road B,E,_B,East Midlands,,C,20.0,-1.0,England_Wales,False,True,True
+RDFRD-1,E_RDFRD-1,,Conrad Energy (Trading) Ltd,Redfield Road,E,_B,East Midlands,,C,20.5,-1.0,England_Wales,False,True,True
+RDSCR-1,E_RDSCR-1,,Conrad Energy (Trading) Ltd,Redscar,E,_G,North Western,,C,40.0,0.0,England_Wales,False,True,True
+RHEI-4,E_RHEI-1,,Statkraft Markets Gmbh,E_RHEI-1,E,_D,Merseyside North Wales,,P,50.0,0.0,England_Wales,False,True,True
+ROOSB-1,E_ROOSB-1,,CBS ENERGY STORAGE ASSETS LTD,Roosecote BESS,E,_G,North Western,,C,49.0,-49.0,England_Wales,False,True,True
+RSCRB-1,2__FRWED001,,ENGIE Power Limited,RiseCarrB,S,_F,Northern,,C,2.0,-2.0,England_Wales,False,True,True
+SEE-AXPO1,2__JAXPO000,,AXPO UK LIMITED,2__JAXPO000,G,_J,South Eastern,,C,8.0,-2.0,England_Wales,False,True,True
+SEE-ENR01,2__JENRD000,,British Gas Trading Ltd,2__JENRD000,G,_J,South Eastern,,C,28.0,-113.458,England_Wales,False,True,True
+SEE-EON01,2__JEOND000,,E.ON Next Energy Ltd,2__JEOND000,G,_J,South Eastern,,C,2.0,-172.0,England_Wales,False,True,True
+SEE-GDF01,2__JRWED000,,ENGIE Power Limited,2__JRWED000,G,_J,South Eastern,,C,20.0,-20.0,England_Wales,False,True,True
+SEE-HVN01,2__JHAVE000,,Drax Energy Solutions Limited,2__JHAVE000,G,_J,South Eastern,,C,8.4,0.0,England_Wales,False,True,True
+SEE-NPE01,2__JNATP000,,Npower Commercial Gas Limited,NPEC SEEBOARD Area NATP,G,_J,South Eastern,,C,66.0,-168.0,England_Wales,False,True,True
+SEE-OCT01,2__JMRCY000,,Octopus Energy Limited,2__JMRCY000,G,_J,South Eastern,,C,660.52,-614.654,England_Wales,False,True,True
+SEE-TFE01,2__JTGPL000,,TotalEnergies Gas & Power Ltd,2__JTGPL000,G,_J,South Eastern,,C,56.0,-174.707,England_Wales,False,True,True
+SEE-VTF01,2__JVETS000,,Vattenfall Energy Trading,VTS_GSP_J_009,G,_J,South Eastern,,C,148.0,-3.5,England_Wales,False,True,True
+SEVIU-1,E_SEVINGTN,,UK Power Reserve Limited,Sevington District Energy,E,_J,South Eastern,,C,10.3,0.0,England_Wales,False,True,True
+SHOS-1,E_SHOS-1,CCGT,VPI Power Limited,Shoreham Power Station,E,_J,South Eastern,,P,460.0,-16.0,England_Wales,False,True,True
+SKELB-1,E_SKELB-1,,Tesla Motors Limited,Skelmersdale Battery,E,_G,North Western,,P,49.9,-50.642,England_Wales,False,True,True
+SOLUU-1,E_SOLUTIA,,UK Power Reserve Limited,Solutia Power Station,E,_K,South Wales,,C,15.8,0.0,England_Wales,False,True,True
+STALB-1,E_STALB-1,,KXP Immingham Ltd,KXP Immingham BESS,E,_M,Yorkshire,,C,80.844,-83.066,England_Wales,False,True,True
+STH-AXPO1,2__HAXPO000,,AXPO UK LIMITED,2__HAXPO000,G,_H,Southern,,C,75.0,-42.0,England_Wales,False,True,True
+STH-ENR01,2__HENRD000,,British Gas Trading Ltd,2__HENRD000,G,_H,Southern,,C,4.0,-197.324,England_Wales,False,True,True
+STH-EON01,2__HEOND000,,E.ON Next Energy Ltd,2__HEOND000,G,_H,Southern,,C,2.0,-220.0,England_Wales,False,True,True
+STH-GDF01,2__HRWED000,,ENGIE Power Limited,2__HRWED000,G,_H,Southern,,C,42.0,-128.0,England_Wales,False,True,True
+STH-HPW01,2__HHPOW000,,Drax Energy Solutions Limited,2__HHPOW000,G,_H,Southern,,C,38.0,-301.003,England_Wales,False,True,True
+STH-HVN01,2__HHAVE000,,Drax Energy Solutions Limited,2__HHAVE000,G,_H,Southern,,C,61.12,0.0,England_Wales,False,True,True
+STH-NPE01,2__HNATP000,,Npower Commercial Gas Limited,NPEC Southern Area NATP,G,_H,Southern,,C,76.0,-232.0,England_Wales,False,True,True
+STH-OCT01,2__HMRCY000,,Octopus Energy Limited,2__HMRCY000,G,_H,Southern,,C,835.8,-749.137,England_Wales,False,True,True
+STH-TFE01,2__HTGPL000,,TotalEnergies Gas & Power Ltd,2__HTGPL000,G,_H,Southern,,C,912.53,-257.229,England_Wales,False,True,True
+SUDME-1,E_SUDME-1,,Conrad Energy (Trading) Ltd,Sudmeadow,E,_E,Midlands,,C,40.0,-1.1,England_Wales,False,True,True
+SWA-AXPO1,2__KAXPO000,,AXPO UK LIMITED,2__KAXPO000,G,_K,South Wales,,C,3.0,-50.0,England_Wales,False,True,True
+SWA-ENR01,2__KENRD000,,British Gas Trading Ltd,2__KENRD000,G,_K,South Wales,,C,36.0,-52.322,England_Wales,False,True,True
+SWA-EON01,2__KEOND000,,E.ON Next Energy Ltd,2__KEOND000,G,_K,South Wales,,C,26.0,-64.0,England_Wales,False,True,True
+SWA-GDF01,2__KRWED000,,ENGIE Power Limited,2__KRWED000,G,_K,South Wales,,C,56.0,-16.0,England_Wales,False,True,True
+SWA-HPW01,2__KHPOW000,,Drax Energy Solutions Limited,2__KHPOW000,G,_K,South Wales,,C,5.5,-121.955,England_Wales,False,True,True
+SWA-HVN01,2__KHAVE000,,Drax Energy Solutions Limited,2__KHAVE000,G,_K,South Wales,,C,99.22,0.0,England_Wales,False,True,True
+SWA-LON01,2__KLOND000,,EDF Energy Customers Limited,LE Default BMUid SWAE,G,_K,South Wales,,C,36.0,-180.0,England_Wales,False,True,True
+SWA-NPE01,2__KNATP000,,Npower Commercial Gas Limited,NPEC South Wales Area NATP,G,_K,South Wales,,C,34.0,-126.0,England_Wales,False,True,True
+SWA-OCT01,2__KMRCY000,,Octopus Energy Limited,2__KMRCY000,G,_K,South Wales,,C,205.8,-202.018,England_Wales,False,True,True
+SWA-OVO01,2__KOVOE000,,OVO Electricity Ltd,2__KOVOE000,G,_K,South Wales,,C,0.96,-160.6,England_Wales,False,True,True
+SWA-TFE01,2__KTGPL000,,TotalEnergies Gas & Power Ltd,2__KTGPL000,G,_K,South Wales,,C,100.0,-112.313,England_Wales,False,True,True
+SWA-UKP01,2__KUKPR000,,UK Power Reserve Limited,UK_Power_Reserve_K,G,_K,South Wales,,C,66.0,0.0,England_Wales,False,True,True
+SWDNB-1,E_SWDNB-1,,Conrad Energy (Trading) Ltd,Swindon,E,_H,Southern,,C,19.0,-19.794,England_Wales,False,True,True
+SWGTB-1,2__MCMRO003,,BGI Trading Limited,2__MCMRO003,S,_M,Yorkshire,,C,50.0,-50.0,England_Wales,False,True,True
+SWT-AXPO1,2__LAXPO000,,AXPO UK LIMITED,2__LAXPO000,G,_L,South Western,,C,30.0,-10.0,England_Wales,False,True,True
+SWT-ENR01,2__LENRD000,,British Gas Trading Ltd,2__LENRD000,G,_L,South Western,,C,24.0,-95.682,England_Wales,False,True,True
+SWT-EON01,2__LEOND000,,E.ON Next Energy Ltd,2__LEOND000,G,_L,South Western,,C,2.0,-120.0,England_Wales,False,True,True
+SWT-GDF01,2__LRWED000,,ENGIE Power Limited,2__LRWED000,G,_L,South Western,,C,72.0,-74.0,England_Wales,False,True,True
+SWT-HVN01,2__LHAVE000,,Drax Energy Solutions Limited,2__LHAVE000,G,_L,South Western,,C,29.72,0.0,England_Wales,False,True,True
+SWT-LON01,2__LLOND000,,EDF Energy Customers Limited,LE Default BMUid SWEB,G,_L,South Western,,C,90.0,-200.0,England_Wales,False,True,True
+SWT-NPE01,2__LNATP000,,Npower Commercial Gas Limited,NPEC South Western Area NATP,G,_L,South Western,,C,32.0,-98.0,England_Wales,False,True,True
+SWT-OCT01,2__LMRCY000,,Octopus Energy Limited,2__LMRCY000,G,_L,South Western,,C,387.52,-406.587,England_Wales,False,True,True
+SWT-OVO01,2__LOVOE000,,OVO Electricity Ltd,2__LOVOE000,G,_L,South Western,,C,29.581,-75.0,England_Wales,False,True,True
+SWT-SWT01,2__LSWEB000,,EDF Energy Customers Limited,SWEB Default BMUid SWEB,G,_L,South Western,,C,2.0,-2.0,England_Wales,False,True,True
+SWT-TFE01,2__LTGPL000,,TotalEnergies Gas & Power Ltd,2__LTGPL000,G,_L,South Western,,C,205.511,-216.871,England_Wales,False,True,True
+TAYL2G,E_TAYL2G,OCGT,Uniper UK Limited,E_TAYL2G,E,_C,London,,P,73.325,-2.3,England_Wales,False,True,True
+TAYL3G,E_TAYL3G,OCGT,Uniper UK Limited,E_TAYL3G,E,_C,London,,P,72.0,-2.3,England_Wales,False,True,True
+TDRVE-1,E_TDRVE-1,OTHER,Conrad Energy (Trading) Ltd,The Drove,E,_L,South Western,,C,6.0,-5.916,England_Wales,False,True,True
+THMRB-1,E_THMRB-1,,Tesla Motors Limited,Thame Road  BESS,E,_A,Eastern,,P,49.5,-49.5,England_Wales,False,True,True
+THRNL-1,E_THRNL-1,,Whitetower Energy Limited,THORNHILL PS,E,_M,Yorkshire,,P,50.0,-6.0,England_Wales,False,True,True
+TIBG-1,E_TGP1,,ESBIG Trading Ltd,Tilbury Green Power One,E,_A,Eastern,,P,43.0,0.0,England_Wales,False,True,True
+TOLLB-1,E_TOLLB-1,,Tollgate Energy Storage Ltd,Tollgate Energy Storage,E,_A,Eastern,,P,49.0,-50.481,England_Wales,False,True,True
+TORQB-1,E_TORQB-1,,Conrad Energy (Trading) Ltd,Torquay,E,_L,South Western,,C,22.364,-23.041,England_Wales,False,True,True
+TRFPK-1,E_TRFPK-1,,Conrad Energy (Trading) Ltd,Trafalgar Park,E,_B,East Midlands,,C,14.0,-1.1,England_Wales,False,True,True
+VKING-2,E_VKING-2,,Whitetower Energy Limited,Viking,E,_F,Northern,,P,50.0,-6.0,England_Wales,False,True,True
+WHTBB-1,E_WHTBB-1,,Field Whitebirk Ltd,Whitebirk BESS,E,_G,North Western,,P,25.0,-25.0,England_Wales,False,True,True
+WNCRB-1,V__HFEEL400,,EDF Energy Limited,V__HFEEL400,V,_H,Southern,,P,10.0,-8.877,England_Wales,False,True,True
+WOLVB-1,E_WOLVB-1,,EDF Energy Customers Limited,Wolverhampton West BESS,E,_E,Midlands,,C,56.0,-52.0,England_Wales,False,True,True
+WTRLN-1,E_WTRLN-1,,Conrad Energy (Trading) Ltd,Water Lane,E,_L,South Western,,C,20.0,-1.0,England_Wales,False,True,True
+WTRSB-1,2__GCMRO002,,BGI Trading Limited,2__GCMRO002,S,_G,North Western,,C,14.0,-14.311,England_Wales,False,True,True
+YEP-ATL01,2__MIMPO000,,SSE Energy Supply Limited,2__MIMPO000,G,_M,Yorkshire,,C,43.8,-130.28,England_Wales,False,True,True
+YEP-AXPO1,2__MAXPO000,,AXPO UK LIMITED,2__MAXPO000,G,_M,Yorkshire,,C,95.0,-22.0,England_Wales,False,True,True
+YEP-ENR01,2__MENRD000,,British Gas Trading Ltd,2__MENRD000,G,_M,Yorkshire,,C,32.0,-154.854,England_Wales,False,True,True
+YEP-EON01,2__MEOND000,,E.ON Next Energy Ltd,2__MEOND000,G,_M,Yorkshire,,C,2.0,-276.0,England_Wales,False,True,True
+YEP-GDF01,2__MRWED000,,ENGIE Power Limited,2__MRWED000,G,_M,Yorkshire,,C,26.0,-148.0,England_Wales,False,True,True
+YEP-HPW01,2__MHPOW000,,Drax Energy Solutions Limited,2__MHPOW000,G,_M,Yorkshire,,C,4.0,-231.079,England_Wales,False,True,True
+YEP-HVN01,2__MHAVE000,,Drax Energy Solutions Limited,2__MHAVE000,G,_M,Yorkshire,,C,120.24,0.0,England_Wales,False,True,True
+YEP-LON01,2__MLOND000,,EDF Energy Customers Limited,LE Default BMUid YELG,G,_M,Yorkshire,,C,16.0,-210.0,England_Wales,False,True,True
+YEP-NPE01,2__MNATP000,,Npower Commercial Gas Limited,NPEC Yorkshire Area NATP,G,_M,Yorkshire,,C,78.0,-236.0,England_Wales,False,True,True
+YEP-OCT01,2__MMRCY000,,Octopus Energy Limited,2__MMRCY000,G,_M,Yorkshire,,C,520.24,-481.441,England_Wales,False,True,True
+YEP-OVO01,2__MOVOE000,,OVO Electricity Ltd,2__MOVOE000,G,_M,Yorkshire,,C,2.6,-80.0,England_Wales,False,True,True
+YEP-TFE01,2__MTGPL000,,TotalEnergies Gas & Power Ltd,2__MTGPL000,G,_M,Yorkshire,,C,64.0,-201.515,England_Wales,False,True,True
+ZEN02A,V__AZENO002,OTHER,BESS Holdco 2 Limited,V__AZENO002,V,_A,Eastern,,C,0.0,0.0,England_Wales,False,True,True
